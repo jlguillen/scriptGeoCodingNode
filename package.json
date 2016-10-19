@@ -1,0 +1,25 @@
+{
+  "name": "scriptgeocodingnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fran-1989/scriptGeoCodingNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fran-1989/scriptGeoCodingNode/issues"
+  },
+  "homepage": "https://github.com/Fran-1989/scriptGeoCodingNode#readme",
+  "dependencies": {
+    "google": "^2.1.0",
+    "lodash": "^4.16.4",
+    "maps": "^0.3.3",
+    "turf": "^3.0.14"
+  }
+}
